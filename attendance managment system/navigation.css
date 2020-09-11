@@ -1,0 +1,27 @@
+ul
+{
+overflow:hidden;
+margin:0;
+padding:0;
+background-color:green;
+}
+li a
+{
+text-decoration:none;
+display:block;
+text-align:center;
+padding:10px 13px;
+color:white;
+}
+li
+{
+float:left;
+}
+li a:hover
+{
+background-color:grey;
+}
+li a:active
+{
+background-color:grey;
+}

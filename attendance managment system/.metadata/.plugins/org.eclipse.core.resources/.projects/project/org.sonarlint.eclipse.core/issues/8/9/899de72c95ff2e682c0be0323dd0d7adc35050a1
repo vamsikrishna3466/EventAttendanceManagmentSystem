@@ -1,0 +1,15 @@
+
+ZWeb:ImgWithoutAltCheckD"%Add an "alt" attribute to this image.(ÚÜ®ÓûÿÿÿÿHRMINORZBUG
+VWeb:TableWithoutCaptionCheck=" Add a description to this table.(ŠÉíHRMINORZBUG
+ZWeb:ImgWithoutAltCheck?"%Add an "alt" attribute to this image.(³Ü›ÿıÿÿÿÿHRMINORZBUG
+W	Web:S1827/"(Remove this deprecated "type" attribute.(¾”˜ıÿÿÿÿHRMAJORZ
+CODE_SMELL
+aWeb:UnsupportedTagsInHtml5Check9"(Remove this deprecated "center" element.(¡á€ÒHRMAJORZBUG
+h	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿHRMAJORZBUG
+H	Web:S5256="%Add "<th>" headers to this "<table>".(ŠÉíHRMAJORZBUG
+ZWeb:ImgWithoutAltCheckA"%Add an "alt" attribute to this image.(éğ©ŒúÿÿÿÿHRMINORZBUG
+bWeb:UnsupportedTagsInHtml5Check7")Remove this deprecated "marquee" element.(¬‘…ãHRMAJORZBUG
+Y	Web:S1827="/Remove this deprecated "cellspacing" attribute.(ŠÉíHRMAJORZ
+CODE_SMELL
+UWeb:ImgWithoutAltCheck@"%Add an "alt" attribute to this image.(Ãø‘ÃHRMINORZBUG
+ZWeb:ImgWithoutAltCheckE"%Add an "alt" attribute to this image.(øĞ½ÆøÿÿÿÿHRMINORZBUG

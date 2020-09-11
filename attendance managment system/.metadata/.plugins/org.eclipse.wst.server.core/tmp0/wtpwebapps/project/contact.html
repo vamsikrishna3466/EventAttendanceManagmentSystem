@@ -1,0 +1,91 @@
+<html>
+<head>
+<title>Contact form</title>
+<link rel="stylesheet" href="navigation.css"/>
+<style>
+body
+{
+	background-image:url("contactphoto.jpeg");
+	background-repeat:repeat;
+	background-size:cover
+}
+.contactform
+{
+
+	background-color:white;
+	border-radius:10px;
+	height: 400px;
+	width:400px;
+	margin-top:125px;
+	margin-left:150px;
+	padding-top: 50px;
+	padding-bottom: 2px;
+	float:center;
+}
+td input.subw
+{
+	background-color: green;
+	color:white;
+	padding:5px;
+}
+td input
+{
+padding-left:9px;
+width:300px;
+}
+input
+{
+padding:10px;
+}
+textarea
+{
+padding:10px;
+width:300px;
+}
+::placeholder {
+  color: orange;
+opacity:2;
+	font-size:17px;
+font-family:Arial;
+}
+
+:-ms-input-placeholder { 
+ color:orange;
+}
+
+::-ms-input-placeholder { 
+ color: orange;
+}
+</style>
+</head>
+<body>
+<div class="nav">
+<ul type="none">
+<li><a href="Ephomepage.html" target="_self">Home</a></li>
+<li><a href="contact.html" target="_self">Contact us</a></li>
+<li><a href="about.html" target="_self">About</a></li>
+</ul>
+</div>
+<div class="contactform">
+<form>
+<table cellspacing="20">
+<tr>
+<td><input type="text" id="text" placeholder="Enter your name" required/></td>
+</tr>
+<tr>
+<td><input type="email" id="te" placeholder="enter your email" required/></td>
+</tr>
+<tr>
+<td><input type="text" id="t"  placeholder="enter your contact number"/></td>
+</tr>
+<tr>
+<td><textarea rows="4" cols="22" placeholder="enter your problem" id="ta" required></textarea></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;" class="sub"><input type="submit"   value="submit" class="subw"/></td>
+</tr>
+</table>
+</form>
+</div>
+</body>
+</html>
